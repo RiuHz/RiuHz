@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Gaetano, aka RiuHz out here!
-Something about me, i'm a student of Computer Science, my love to code started from my adorable mom ❤️ when se saw i enjoyed playing a lot of videogames as a child (i still do ^^ and you can find me with the name of Riu/RiuHz) and she told me to go study Computer Science because of that, turns out it's a lot of fun and makes you express your creativity in so many ways!
+Something about me, i'm a student of Computer Science, my love to code started from my adorable mom ❤️ when she saw i enjoyed playing a lot of videogames as a child (i still do ^^ and you can find me with the name of Riu/RiuHz) and she told me to go study Computer Science because of that, turns out it's a lot of fun and makes you express your creativity in so many ways!
 <!---at Federico II University--->
 
 # 🎓 I’m currently learning Python and AI
@@ -10,6 +10,7 @@ Where are my studies taking me? On a Data Scientist path, it's a long journey bu
 Here is a list of technologies and tools i know and use within my studies. <br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" widht="50" height="50" title="Visual Studio Code" alt="Visual Studio Code">
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" widht="50" height="50" title="Python" alt="Python">
+<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" width="50" height="50" title="NumPy" alt="NumPy">
 <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" widht="50" height="50" title="TensorFlow" alt="TensorFlow">
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" widht="50" height="50" title="MySQL" alt="MySQL">
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" widht="50" height="50" title="GitHub" alt="GitHub">
