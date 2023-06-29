@@ -20,6 +20,7 @@ Here is a list of technologies and tools i know and use within my studies. <br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" widht="50" height="50" title="CSS" alt="CSS">
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50" title="JavaScript" alt="JavaScript">
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" widht="50" height="50" title="PHP" alt="PHP">
+<img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" widht="50" height="50" title="Apache" alt="Apache">
 <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" widht="50" height="50" title="LATEX" alt="LATEX">
 
 # 🎮 My hobbies
