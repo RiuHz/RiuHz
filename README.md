@@ -1,10 +1,10 @@
 # 👋 Hi, I’m Gaetano, aka RiuHz out here!
-Something about me, i'm a student of Computer Science, my love to code started from my adorable mom ❤️ when she saw i enjoyed playing a lot of videogames as a child (i still do ^^ and you can find me with the name of Riu/RiuHz) and she told me to go study Computer Science because of that, turns out it's a lot of fun and makes you express your creativity in so many ways!
+Something about me, i'm a student of Computer Science at the University of Naples Federico II, my love to code started from my adorable mom ❤️ when she saw i enjoyed playing a lot of videogames as a child (i still do ^^ and you can find me with the name of Riu/RiuHz) and she told me to go study Computer Science because of that, turns out it's a lot of fun and makes you express your creativity in so many ways!
 <!---at Federico II University--->
 
 # 🎓 I’m currently learning Python and AI
-My studies are pretty much focused on Python and simple AI, you can find one of my projects [here](https://express.adobe.com/it-IT/sp/design/page/urn:aaid:sc:EU:107fce2b-d0e3-4074-96da-c3d9a1eacb40/preview) (the whole project and thesis is in italian), and if you are wondering why my GitHub profile has no repositories the answer is easy! _I still have no projects that i'm willing to show as a student, but i promise i will show some of the coding i do in my studies and free time_.
-Where are my studies taking me? Maybe on a Data Scientist path, it's a long journey but i have to start somewhere.
+My studies in high school were pretty much focused on Python and simple AI, you can find one of my projects [here](https://express.adobe.com/it-IT/sp/design/page/urn:aaid:sc:EU:107fce2b-d0e3-4074-96da-c3d9a1eacb40/preview) (the whole project and thesis is in italian), and if you are wondering why my GitHub profile has no repositories the answer is easy! _I still have no projects that i'm willing to show as a student, but i promise i will show some of the coding i do in my studies and free time_.
+Where are my studies taking me? Maybe on a Data Scientist or AI Specialist path, it's a long journey but i have to start somewhere.
 
 # 💻 Technologies
 Here is a list of technologies and tools i know and use within my studies. <br>
@@ -42,8 +42,8 @@ class Student:
 Riu = Student()
 Riu.say_bye()
 ```
-
-<!--- http://github-readme-streak-stats.herokuapp.com/demo/ --->
+# My GitHub Stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RiuHz&theme=dark&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <!--- # 📫 How to reach me ... --->
 
